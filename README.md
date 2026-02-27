@@ -27,6 +27,8 @@ This project applies deep learning techniques to automatically learn facial expr
 - [Project Report](emotions_docs/emotions_report.pdf)
 - [Project Presentation Slides](emotions_docs/emotions_ppt.pptx)
 
+**Presentation Video**
+
 <a href="https://drive.google.com/file/d/11BQLPYxKmVABNrjyK0LU1gFDWaMpiZuI/view?usp=sharing">
   <img src="emotions_docs/emotions_thumbnail.png" width="400" alt="Emotions Recognition Presentation Video"/>
 </a>
